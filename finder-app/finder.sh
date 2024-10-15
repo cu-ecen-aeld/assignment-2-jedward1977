@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Check num of vars
+# Check num of vars --a
 if [ $# -eq 2 ]
 then
 	filesdir=$1
